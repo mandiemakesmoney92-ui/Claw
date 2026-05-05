@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage — primary landing -->
+  <url>
+    <loc>https://www.mystichiddengem.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2026-05-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mystichiddengem.com/"/>
+  </url>
+
+  <!-- Core social feed pages — high crawl frequency -->
+  <url>
+    <loc>https://www.mystichiddengem.com/feed</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/trending</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/search</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/reels</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+  <!-- Key feature pages — high value SEO targets -->
+  <url>
+    <loc>https://www.mystichiddengem.com/confessions</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/circles</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/shadow-work</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/purge-arena</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/purgatory</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/humanity-verify</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/broadcasts</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/contests</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/compliment-wheel</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+  <!-- Mystic connection features — newly added -->
+  <url>
+    <loc>https://www.mystichiddengem.com/pen-pals</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/ghost-letters</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/witness-wall</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/frequency-match</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+  <!-- Creator and monetization -->
+  <url>
+    <loc>https://www.mystichiddengem.com/creator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/shop</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/app-store</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+  <!-- About and legal -->
+  <url>
+    <loc>https://www.mystichiddengem.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mystichiddengem.com/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+</urlset>

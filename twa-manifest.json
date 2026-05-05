@@ -1,0 +1,54 @@
+{
+  "packageId": "com.mystichiddengem.claw",
+  "host": "www.mystichiddengem.com",
+  "name": "CLAW — Mystic Hidden Gem",
+  "launcherName": "CLAW",
+  "display": "standalone",
+  "orientation": "portrait",
+  "themeColor": "#0a0a0a",
+  "themeColorDark": "#0a0a0a",
+  "navigationColor": "#0a0a0a",
+  "navigationColorDark": "#0a0a0a",
+  "navigationDividerColor": "#0a0a0a",
+  "navigationDividerColorDark": "#0a0a0a",
+  "backgroundColor": "#0a0a0a",
+  "startUrl": "/",
+  "iconUrl": "https://www.mystichiddengem.com/icons/icon-512.png",
+  "maskableIconUrl": "https://www.mystichiddengem.com/icons/icon-512-maskable.png",
+  "monochromeIconUrl": "https://www.mystichiddengem.com/icons/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signing": {
+    "outputDirectory": "./android-signing",
+    "signingMode": "none"
+  },
+  "appVersionCode": 1,
+  "appVersionName": "1.0.0",
+  "shortcuts": [
+    {
+      "name": "Home Feed",
+      "shortName": "Feed",
+      "url": "/feed",
+      "icons": [
+        {
+          "src": "https://www.mystichiddengem.com/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "generatorApp": "pwa-builder",
+  "webManifestUrl": "https://www.mystichiddengem.com/manifest.json",
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://www.mystichiddengem.com/",
+  "minSdkVersion": 21,
+  "sdkVersion": 34,
+  "features": {
+    "locationDelegation": { "enabled": false },
+    "playBilling": { "enabled": false }
+  },
+  "enableNotifications": true,
+  "additionalTrustedOrigins": [],
+  "retainedBundles": []
+}

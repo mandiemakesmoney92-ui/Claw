@@ -1,0 +1,59 @@
+{
+  "name": "CLAW — Mystic Hidden Gem",
+  "short_name": "CLAW",
+  "description": "The consent-based social platform. No algorithm. No bots. Real people, raw truth.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "lang": "en",
+  "categories": ["social", "lifestyle", "entertainment"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/opengraph.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "CLAW — Mystic Hidden Gem social platform"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.mystichiddengem.claw",
+      "id": "com.mystichiddengem.claw"
+    }
+  ],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Home Feed",
+      "short_name": "Feed",
+      "description": "Open your personalized CLAW feed",
+      "url": "/feed",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    }
+  ]
+}
